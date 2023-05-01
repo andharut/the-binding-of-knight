@@ -16,14 +16,5 @@
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
-  "ResourceOrderSettings": [
-    {"name":"_3","order":2,"path":"sprites/_3/_3.yy",},
-    {"name":"_13","order":7,"path":"sprites/_13/_13.yy",},
-    {"name":"_4","order":3,"path":"sprites/_4/_4.yy",},
-    {"name":"_6","order":5,"path":"sprites/_6/_6.yy",},
-    {"name":"_12","order":8,"path":"sprites/_12/_12.yy",},
-    {"name":"_5","order":4,"path":"sprites/_5/_5.yy",},
-    {"name":"_2","order":1,"path":"sprites/_2/_2.yy",},
-    {"name":"_7","order":6,"path":"sprites/_7/_7.yy",},
-  ],
+  "ResourceOrderSettings": [],
 }

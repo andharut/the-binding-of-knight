@@ -1,7 +1,7 @@
 {
   "resourceType": "GMProject",
   "resourceVersion": "1.7",
-  "name": "1cave",
+  "name": "the-binding-of-knight",
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
   ],
@@ -34,15 +34,6 @@
     "IDEVersion": "2023.2.1.75",
   },
   "resources": [
-    {"id":{"name":"_3","path":"sprites/_3/_3.yy",},},
-    {"id":{"name":"_13","path":"sprites/_13/_13.yy",},},
-    {"id":{"name":"_4","path":"sprites/_4/_4.yy",},},
-    {"id":{"name":"_6","path":"sprites/_6/_6.yy",},},
-    {"id":{"name":"_1","path":"sprites/_1/_1.yy",},},
-    {"id":{"name":"_12","path":"sprites/_12/_12.yy",},},
-    {"id":{"name":"_5","path":"sprites/_5/_5.yy",},},
-    {"id":{"name":"_2","path":"sprites/_2/_2.yy",},},
-    {"id":{"name":"_7","path":"sprites/_7/_7.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
